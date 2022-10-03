@@ -22,6 +22,9 @@ public class PruebaGitt {
        System.out.println("La resta de a - b es: " + d);
        System.out.println("La resta de a * b es: " + e);
        System.out.println("La resta de a / b es: " + h);
+       
+       
+       System.out.println("Si funciona");
     }
     
 }
